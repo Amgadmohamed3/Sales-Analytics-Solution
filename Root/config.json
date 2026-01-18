@@ -1,0 +1,11 @@
+{
+    "paths": {
+        "raw_dir": "data/raw",
+        "processed_dir": "data/processed",
+        "final_dir": "data/final"
+    },
+    "files": {
+        "sales": "Sales.json",
+        "forecast": "forecast.json"
+    }
+}
